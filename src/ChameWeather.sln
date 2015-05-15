@@ -30,7 +30,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chame.WebService.Helper", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChameWeather.WebService.Library", "ChameWeather.WebService.Library\ChameWeather.WebService.Library.csproj", "{9C1CF0A0-9152-4422-AF4F-B4612D28F7C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChameHOT.WebService.Library", "..\..\ChameHistoryOfToday\dev\ChameHOT.WebService.Library\ChameHOT.WebService.Library.csproj", "{DDEF6E96-1AE4-487D-98C7-465C7764296F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChameHOT.WebService.Library", "..\..\ChameHistoryOfToday\src\ChameHOT.WebService.Library\ChameHOT.WebService.Library.csproj", "{DDEF6E96-1AE4-487D-98C7-465C7764296F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChameWeather.BackgroundTask", "ChameWeather.BackgroundTask\ChameWeather.BackgroundTask.csproj", "{8441EB3A-0109-4596-B0DC-E29DC74DA80E}"
 EndProject
